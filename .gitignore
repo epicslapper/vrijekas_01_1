@@ -1,0 +1,11 @@
+.venv/
+vrijekas.db
+*.db
+__pycache__/
+*.pyc
+.env
+.streamlit/
+.vscode/
+.idea/
+.DS_Store
+.pytest_cache/
